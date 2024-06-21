@@ -1,0 +1,9 @@
+<h2> é usado para cabeçalhos de segundo nível, indicando seções principais dentro do conteúdo, enquanto <h4> é para cabeçalhos de quarto nível, representando subdivisões menores
+im, o código <cesim, o codigo <center><p>texto</center><p> apresenta alguns erros e problemas de semântica. Aqui estão os principais pontos a considerar:
+
+1. *Tag <center> Descontinuada*:
+   - A tag <center> foi descontinuada no HTML5. Em vez de <center>, recomenda-se usar CSS para centralizar conteúdo.
+
+2. *Estrutura Imestrutura impropria*:
+   - As tags HTML devem ser corretamente aninhadas. No seu exemplo, a tag <p> não está devidamente fechada antes da tag de fechamento </center>. O código correto deveria ter as tags <p> adequadamente fechadas.
+a tag <p> no html é usada paradefinir parágrafos de textos. Seu principal proposito é agrupar e  formatar blocos de textos
